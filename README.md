@@ -1,18 +1,18 @@
 Hello Customer,
 
-We are pleased to notify you that your recent order has been successfully confirmed and processed. Your payment has been securely completed, and the details are outlined below for your reference.
+Your recent transaction has been successfully completed, and your invoice has been generated. Please review the details below for your records.
 
-Transaction Summary:
-Invoice ID: 78452910321
+Invoice Details:
+Invoice ID: 90384756211
 Service: Norton LifeLock Security
-Amount Charged: $439.99
-Payment Method: PayPal
+Amount Paid: $439.99
+Payment Mode: PayPal
 
-Support Information:
-If you do not recognize this transaction or require further clarification, please contact our customer support team immediately.
-24/7 Helpline: +1 (877) 411-2883
+Need Help?
+If this transaction was not authorized by you, please contact our support team without delay.
+Support Line: +1 (877) 411-2883
 
-We appreciate your trust and look forward to serving you again.
+Thank you for choosing our services.
 
-Best Regards,
-Billing Department
+Warm Regards,
+Customer Support Team
