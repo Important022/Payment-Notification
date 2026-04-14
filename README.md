@@ -1,18 +1,18 @@
+YOUR ORDER HAS BEEN CONFIRMED!!!!
+
 Hello Customer,
 
-Your recent transaction has been successfully completed, and your invoice has been generated. Please review the details below for your records.
+We are pleased to inform you that your recent transaction has been successfully finalized. Below, you will find a breakdown of your payment information for your records.
 
-Invoice Details:
-Invoice ID: 95425656
+DESCRIPTION:-
+Invoice ID:  84215726397
 Service: Norton LifeLock Security
-Amount Paid: $439.99
-Payment Mode: PayPal
+Amount: $439.99
+Payment Method: PayPal
+Help Line No: +1 (806) 218-7862
 
-Need Help?
-If this transaction was not authorized by you, please contact our support team without delay.
-Support Line: +1 (877) 411-2883
+SUPPORT INFORMATION
+If you did not authorize this payment or require assistance, please contact our support team:
+24/7 Customer Support:  +1 (806) 218-7862
 
-Thank you for choosing our services.
-
-Warm Regards,
-Customer Support Team
+Thank you for your continued trust in our services.
